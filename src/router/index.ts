@@ -1,7 +1,7 @@
-import { createRouter, createWebHashHistory, RouteRecordRaw } from 'vue-router'
-import Home from '../views/Home.vue'
-import Success from '../views/Success.vue'
-import ErrorPage from '../views/ErrorPage.vue'
+import { createRouter, createWebHashHistory, RouteRecordRaw } from 'vue-router';
+import Home from '../views/Home.vue';
+import Success from '../views/Success.vue';
+import ErrorPage from '../views/ErrorPage.vue';
 
 const routes: Array<RouteRecordRaw> = [
   {
