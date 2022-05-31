@@ -89,7 +89,7 @@ export default defineComponent({
 }
 
 .card:hover {
-    outline: 3px solid rgb(86, 146, 166);
+    outline: 2px solid rgb(111, 176, 219);
     background-color: rgb(193, 226, 250);
     color: black;
 }
